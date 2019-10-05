@@ -1,2 +1,1 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d222017"],{cd88:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("暫未開放。")])},l=[],u={metaInfo:{title:"1A2B 猜數字-使用者出題"}},a=u,i=t("2877"),o=Object(i["a"])(a,c,l,!1,null,null,null);e["default"]=o.exports}}]);
-//# sourceMappingURL=chunk-2d222017.d8d1789e.js.map
